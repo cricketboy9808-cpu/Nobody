@@ -1,0 +1,110 @@
+[
+  {
+    "name": "GogoAnime",
+    "version": 2,
+    "url": "https://codeberg.org",
+    "authors": ["Cloudstream"],
+    "description": "100% Working Anime Streaming from Gogo servers.",
+    "iconUrl": "https://codeberg.org",
+    "tags": ["anime", "english"]
+  },
+  {
+    "name": "AnimePahe",
+    "version": 2,
+    "url": "https://codeberg.org",
+    "authors": ["Cloudstream"],
+    "description": "High quality encoded subbed and dubbed anime.",
+    "iconUrl": "https://codeberg.org",
+    "tags": ["anime"]
+  },
+  {
+    "name": "AllAnime",
+    "version": 2,
+    "url": "https://codeberg.org",
+    "authors": ["Cloudstream"],
+    "description": "Massive library of subbed and dubbed anime with multiple server mirrors.",
+    "iconUrl": "https://codeberg.org",
+    "tags": ["anime", "multi"]
+  },
+  {
+    "name": "NineAnime",
+    "version": 2,
+    "url": "https://codeberg.org",
+    "authors": ["Cloudstream"],
+    "description": "Streams high-definition content directly from 9anime mirrors.",
+    "iconUrl": "https://codeberg.org",
+    "tags": ["anime", "hd"]
+  },
+  {
+    "name": "Aniflix",
+    "version": 2,
+    "url": "https://codeberg.org",
+    "authors": ["Cloudstream"],
+    "description": "Provides clean layouts and stable video links for anime series.",
+    "iconUrl": "https://codeberg.org",
+    "tags": ["anime"]
+  },
+  {
+    "name": "AnimeHub",
+    "version": 2,
+    "url": "https://codeberg.org",
+    "authors": ["Cloudstream"],
+    "description": "Fast anime streaming index with multiple stream hosts.",
+    "iconUrl": "https://codeberg.org",
+    "tags": ["anime"]
+  },
+  {
+    "name": "AnimeXin",
+    "version": 2,
+    "url": "https://codeberg.org",
+    "authors": ["Cloudstream"],
+    "description": "Specialized provider for Donghua (Chinese Anime) and subbed series.",
+    "iconUrl": "https://codeberg.org",
+    "tags": ["anime", "donghua"]
+  },
+  {
+    "name": "DramaCool",
+    "version": 2,
+    "url": "https://codeberg.org",
+    "authors": ["Cloudstream"],
+    "description": "Massive source for Asian dramas (K-Drama, J-Drama, C-Drama) with English subtitles.",
+    "iconUrl": "https://codeberg.org",
+    "tags": ["drama", "asian"]
+  },
+  {
+    "name": "KShow123",
+    "version": 2,
+    "url": "https://codeberg.org",
+    "authors": ["Cloudstream"],
+    "description": "Streams Korean variety shows and reality TV programs.",
+    "iconUrl": "https://codeberg.org",
+    "tags": ["shows", "korean"]
+  },
+  {
+    "name": "Zoro/AniWatch Mirror",
+    "version": 2,
+    "url": "https://codeberg.org",
+    "authors": ["Cloudstream"],
+    "description": "Premium layout streaming mirror for popular anime databases.",
+    "iconUrl": "https://codeberg.org",
+    "tags": ["anime", "hd"]
+  },
+  {
+    "name": "Crunchyroll Mirror",
+    "version": 2,
+    "url": "https://codeberg.org",
+    "authors": ["Cloudstream"],
+    "description": "Alternative community scrape wrapper for anime library indexes.",
+    "iconUrl": "https://codeberg.org",
+    "tags": ["anime", "english"]
+  },
+  {
+    "name": "YugenAnime",
+    "version": 2,
+    "url": "https://codeberg.org",
+    "authors": ["Cloudstream"],
+    "description": "High fidelity anime stream library containing explicit subtitle toggles.",
+    "iconUrl": "https://codeberg.org",
+    "tags": ["anime"]
+  }
+]
