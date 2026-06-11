@@ -1,0 +1,8 @@
+{
+  "name": "My 100% Working Anime Repo",
+  "description": "Verified working third-party anime streams",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/cricketboy9808-cpu/Nobody/refs/heads/main/plugins.json"
+  ]
+}
